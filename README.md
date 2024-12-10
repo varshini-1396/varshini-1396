@@ -14,7 +14,10 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student passion
   - Member of Red Ribbon Society ❤️  
 
 ## 🌟 Ongoing Projects
-- **Digital Wallet System**: An OOP-based project managing transactions and user accounts.  
+- **Currency Converter using real time rates**:It is a project that uses real-time exchange rates to convert between different currencies instantly.
+
+## 🏆 Previous Projects
+- **[Digital Wallet System]**: https://github.com/varshini-1396/Digital-Wallet-System 
 
 ## 🌐 Let's Connect!
 - 📫 **Email**: cs23b1015@iiitdm.ac.in
