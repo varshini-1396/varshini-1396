@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student passion
   - Member of Red Ribbon Society ❤️  
 
 ## 🌟 Ongoing Projects
-- **Currency Converter using real time rates**:It is a project that uses real-time exchange rates to convert between different currencies instantly.
+- **Currency Converter**: It is a project that uses real-time exchange rates to convert between different currencies instantly.
 
 ## 🏆 Previous Projects
 - **[Digital Wallet System]**: https://github.com/varshini-1396/Digital-Wallet-System 
