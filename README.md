@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student passion
 
 ## 🌟 About Me
 - 💻 **Skills**: C, C++, Python, Data Structures & Algorithms, HTML, CSS.
-- 🛠️ **Currently working on**: A **Digital Wallet System** using OOP concepts in C++  
+- 🛠️ **Currently working on**: **Currency Converter Using Real-time Rates**
 - 🌱 **Learning**: Enhancing my skills in object-oriented programming and exploring impactful social initiatives  
 - 🎓 **Roles**:  
   - Class Representative 🏫  
