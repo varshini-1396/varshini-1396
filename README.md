@@ -13,12 +13,9 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student passion
   - Social Service Group Coordinator 🤝  
   - Member of Red Ribbon Society ❤️  
 
-## 🌟 Ongoing Projects
-- **Currency Converter**: It is a project that uses real-time exchange rates to convert between different currencies instantly.
-
 ## 🏆 Previous Projects
 - **[Digital Wallet System]**: https://github.com/varshini-1396/Digital-Wallet-System 
-
+- **[Currency Converter]**: https://github.com/varshini-1396/Currency-Converter
 ## 🌐 Let's Connect!
 - 📫 **Email**: cs23b1015@iiitdm.ac.in
 - 💬 **Instagram**: [varshini_1396](https://www.instagram.com/) 
