@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student passion
 ## 🏆 Previous Projects
 - **[Digital Wallet System]**: https://github.com/varshini-1396/Digital-Wallet-System 
 - **[Currency Converter]**: https://github.com/varshini-1396/Currency-Converter
+- **[Sentiment-Dashboard]**: https://github.com/varshini-1396/Sentiment-Dashboard
 ## 🌐 Let's Connect!
 - 📫 **Email**: cs23b1015@iiitdm.ac.in
 - 💬 **Instagram**: [varshini_1396](https://www.instagram.com/) 
